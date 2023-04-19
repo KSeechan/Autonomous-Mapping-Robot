@@ -1,4 +1,4 @@
-# MIE443-Contest1
+# Autonomous Mapping
 Explanation of weighted random walk
 
 The algorithm works in the following way, the robot’s state is initially set to ‘SEEK’ and as such, the robot enters the circularScan function.
